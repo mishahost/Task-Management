@@ -68,3 +68,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Task Management Application
+## Objective
+
+This project is a React-based Task Management Application designed to help users create, manage, and track tasks efficiently. The application includes features like task creation, editing, deletion, subtasks, and task filtering to streamline task management.
+
+## Features
+-> Task Creation:
+Users can create tasks with a title, description, and due date.
+
+-> Task List:
+Display a list of all tasks with their status (pending/completed).
+
+-> Task Editing:
+Users can edit the task's title and description.
+
+-> Task Deletion:
+Allows users to delete tasks they no longer need.
+
+-> Subtasks:
+Users can add and manage subtasks for each task.
+
+-> Completion Status:
+Tasks and subtasks can be marked as completed.
+
+-> Task Timestamps:
+Display task creation and deletion dates.
+
+-> Task Filtering:
+Filter tasks by their status (pending/completed).
+
+->  User Authentication (Optional):
+The project has provisions for adding user authentication in the future.
+
+## Technologies Used
+-> React: Functional components for building the UI.
+-> React Hooks: Used for state management and side effects.
+-> React Hook Form: For managing forms and validation.
+-> React Router: Enables smooth navigation between pages.
+-> Tailwind CSS: Used for styling the UI.
+-> Local Storage: Data persistence for tasks using the browser's local storage.
+-> Firebase Hosting: For deploying the app. 
+
+
